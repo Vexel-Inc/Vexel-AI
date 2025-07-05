@@ -8,6 +8,8 @@ Vexel AI | The Modern &amp; Simple Web AI Based On Google Gemini 1.5 Flash, Vexe
 - Modern Style
 - Use & Supported Icons From: [Boxicons](https://boxicons.com/) & [Ionicons](https://ionic.io/ionicons)
 - Responsive With Any Device
+- Create Code & Markdown Files
+- Chat In Any Disscution
 - Written With HTML, CSS, Javascript & API
 
 ## Usage
